@@ -37,10 +37,7 @@ p.green-background {
     margin: 20px;/*Subtask 17*/
 }
 .padding-blue {
-    padding-top: 40px;/*Subtask 19*/
-    padding-left: 40px;/*Subtask 19*/
-    padding-right: 20px;/*Subtask 19*/
-    padding-bottom: 20px;/*Subtask 19*/
+    padding: 40px 20px 20px 40px;/*Subtask 21*/
     border: 5px solid black;
     background-color: blue;
     margin-top: 40px;/*Subtask 20*/
