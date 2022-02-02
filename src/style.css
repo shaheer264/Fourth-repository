@@ -1,7 +1,7 @@
 h2 {
     color:red;
 }
-p {
+p.green-background {
     background-color: green;
 }
 .red-text {
