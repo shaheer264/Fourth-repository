@@ -12,7 +12,7 @@ p.green-background {
 }
 .thick-green-border {
     width: 500px;/*Subtask 9*/
-    border-radius: 10px ;/*Subtask 10*/
+    border-radius: 50% ;/*Subtask 12*/
     border-style: solid;/*Subtask 11*/
     border-color: green;/*Subtask 11*/
 }
