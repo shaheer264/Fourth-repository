@@ -48,5 +48,6 @@ p.green-background {
     margin-bottom: 15px;/*Subtask 23*/
 }
 body {
-    background-color: black;/*Subtask 25*/
+    color: green;/*Subtask 26*/
+    font-family: monospace;/*Subtask 26*/
 }
