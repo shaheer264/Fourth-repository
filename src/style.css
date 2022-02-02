@@ -43,5 +43,8 @@ p.green-background {
     padding-bottom: 20px;/*Subtask 19*/
     border: 5px solid black;
     background-color: blue;
-    margin: -15px;/*Subtask 18*/
+    margin-top: 40px;/*Subtask 20*/
+    margin-left: 40px;/*Subtask 20*/
+    margin-bottom: 20px;/*Subtask 20*/
+    margin-right: 20px;/*Subtask 20*/
 }
