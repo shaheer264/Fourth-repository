@@ -10,6 +10,7 @@ p.green-background {
 .red-text {
     color: red;
 }
-.task9 {
+.thick-green-border {
     width: 500px;/*Subtask 9*/
+    border: 10px solid green;
 }
