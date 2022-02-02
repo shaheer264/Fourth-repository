@@ -23,3 +23,20 @@ p.green-background {
     color:green;/*Subtask 14*/
     background-color: gray;/*Subtask 15*/
 }
+.padding-main {
+    padding: 10px;
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    border: 5px solid black;
+}
+.padding-red {
+    padding: 10px;
+    border: 5px solid black;
+    background-color: red;
+}
+.padding-blue {
+    padding: 10px;
+    border: 5px solid black;
+    background-color: blue;
+}
