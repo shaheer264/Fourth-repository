@@ -42,3 +42,8 @@ p.green-background {
     background-color: blue;
     margin: 40px 20px 20px 40px;/*Subtask 22*/
 }
+#cat-photo-form /*Subtask 23*/
+[type="radio"] {
+    margin-top: 10px;/*Subtask 23*/
+    margin-bottom: 15px;/*Subtask 23*/
+}
