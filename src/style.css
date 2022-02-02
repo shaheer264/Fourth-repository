@@ -16,3 +16,6 @@ p.green-background {
     border-style: solid;/*Subtask 11*/
     border-color: green;/*Subtask 11*/
 }
+.silver-background {
+    background-color: silver;/*Subtask 13*/
+}
