@@ -20,5 +20,6 @@ p.green-background {
     background-color: silver;/*Subtask 13*/
 }
 #cat-photo-app {
-    color:green;
+    color:green;/*Subtask 14*/
+    background-color: gray;/*Subtask 15*/
 }
