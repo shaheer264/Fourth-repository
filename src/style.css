@@ -48,7 +48,7 @@ p.green-background {
     margin-bottom: 15px;/*Subtask 23*/
 }
 body {
-    background-color: #000;/*Subtask 32*/
+    
     color: green;/*Subtask 26*/
     font-family: monospace;/*Subtask 26*/
 }
@@ -60,4 +60,16 @@ body {
 }
 #orange-text {
     color: orange;/*Subtask 29*/
+}
+.red-text {
+    color: #FF0000;/*Subtask 33*/
+}
+.green-text {
+    color: #00FF00;/*Subtask 33*/
+}
+.dodger-blue {
+    color: #1E90FF;/*Subtask 33*/
+}
+.orange-text {
+    color: #FFA500;/*Subtask 33*/
 }
