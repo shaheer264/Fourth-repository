@@ -253,3 +253,11 @@ body {
 .penguin * {
     position: absolute;
 }
+:root {
+    --red-color: red;/*Subtask 41*/
+  }
+.red-box {
+    background: var(--red-color, red);/*Subtask 41*/
+    height: 200px;
+    width:200px;
+  }
