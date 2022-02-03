@@ -100,9 +100,9 @@ body {
 .penguin {    
     /*Subtask 37*/
     
-    --penguin-belly: white;
     --penguin-beak: orange;
     --penguin-skin: gray;/*Subtask 38*/
+    --penguin-belly: white;/*Subtask 43*/
     
     position: relative;
     margin: auto;
