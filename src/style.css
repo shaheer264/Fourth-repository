@@ -52,7 +52,7 @@ body {
     font-family: monospace;/*Subtask 26*/
 }
 .pink-text {
-    color: pink;/*Subtask 27*/
+    color: pink !important;/*Subtask 31*/
 }
 .blue-text {
     color: blue;/*Subtask 28*/
