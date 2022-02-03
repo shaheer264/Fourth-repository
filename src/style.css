@@ -99,11 +99,11 @@ body {
 }
 .penguin {    
     /*Subtask 37*/
-    /* Only change code below this line */
-    --penguin-skin: gray;
+    
     --penguin-belly: white;
     --penguin-beak: orange;
-    /* Only change code above this line */
+    --penguin-skin: gray;/*Subtask 38*/
+    
     position: relative;
     margin: auto;
     display: block;
