@@ -67,9 +67,21 @@ body {
 .green-text {
     color: #00FF00;/*Subtask 33*/
 }
-.dodger-blue {
+.dodger-blue-text {
     color: #1E90FF;/*Subtask 33*/
 }
 .orange-text {
     color: #FFA500;/*Subtask 33*/
+}
+.red-text {
+    color: #F00;/*Subtask 34*/
+}
+.fuchsia-text {
+    color: #F0F;/*Subtask 34*/
+}
+.cyan-text {
+    color: #0FF;/*Subtask 34*/
+}
+.green-text {
+    color: #0F0;/*Subtask 34*/
 }
