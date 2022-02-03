@@ -257,6 +257,12 @@ body {
     --red-color: red;/*Subtask 41*/
     --penguin-belly: pink;/*Subtask 42*/
   }
+@media (max-width: 650px) {
+    :root{
+        --penguin-size: 400px;/*Subtask 44*/
+        --penguin-skin: black;/*Subtask 44*/
+    }
+}
 .red-box {
     background: var(--red-color, red);/*Subtask 41*/
     height: 200px;
