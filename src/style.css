@@ -255,6 +255,7 @@ body {
 }
 :root {
     --red-color: red;/*Subtask 41*/
+    --penguin-belly: pink;/*Subtask 42*/
   }
 .red-box {
     background: var(--red-color, red);/*Subtask 41*/
